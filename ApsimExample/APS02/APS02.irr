@@ -1,0 +1,32 @@
+*** Script for irrigation ***
+[Sprinkler]
+Sprinkler irrigation
+Average irrigation rate (cm/hour)
+ 3 
+Number of irrigation application
+ 14 
+Date AmtIrrAppl (mm/day)
+'05/31/1991'	20
+'06/03/1991'	20
+'06/17/1991'	40
+'07/07/1991'	40
+'07/31/1991'	40
+'08/20/1991'	40
+'08/30/1991'	40
+'09/09/1991'	40
+'09/19/1991'	40
+'09/29/1991'	50
+'10/09/1991'	50
+'10/19/1991'	50
+'10/29/1991'	50
+'11/08/1991'	50
+[Flood_H]
+Flood irrigation as depth of water (cm)
+Number of flood irrigations as head (cm)
+ 0 
+No flood Irrigation
+[Flood_R]
+Flood irrigation as rate applied (cm/day)
+Number of flood irrigations as rate
+ 0 
+No flood Irrigation

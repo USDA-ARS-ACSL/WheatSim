@@ -1,0 +1,34 @@
+ Volume in drive D is All_my_code
+ Volume Serial Number is 6254-4DEA
+
+ Directory of D:\2DWheatSim\StandardExample\ApsimExample\APS02
+
+09/25/2024  11:06 PM    <DIR>          .
+09/26/2024  06:30 PM    <DIR>          ..
+09/26/2024  08:19 PM               485 APS02.dat
+09/25/2024  03:48 PM               161 APS02.drp
+09/26/2024  08:19 PM            17,150 APS02.grd
+09/25/2024  12:08 PM               537 APS02.ini
+09/25/2024  05:06 PM               645 APS02.irr
+09/26/2024  08:19 PM             1,684 APS02.lyr
+09/25/2024  12:02 PM             1,601 APS02.nit
+09/26/2024  08:19 PM            36,751 APS02.nod
+09/25/2024  11:06 PM             1,126 APS02.soi
+09/25/2024  12:36 PM               466 APS02.tim
+09/25/2024  04:54 PM            13,812 APS02.wea
+09/25/2024  04:43 PM               568 APS02Climate.dat
+09/25/2024  10:13 AM               362 BiologyDefault.bio
+09/26/2024  08:19 PM                 0 createError.log
+09/26/2024  08:19 PM               610 dataGen2.dat
+09/26/2024  08:19 PM                 0 dir.txt
+09/25/2024  10:13 AM               341 GasID.gas
+09/25/2024  05:54 PM               164 grid1.bat
+09/25/2024  10:13 AM                20 grid2.bat
+09/26/2024  08:19 PM            37,173 grid_bnd
+09/25/2024  10:13 AM             1,498 MulchGeo1.mul
+09/25/2024  10:13 AM               700 NitrogenDefault.sol
+09/25/2024  11:06 PM               295 Rosetta.log
+09/25/2024  05:06 PM    <DIR>          TOS1HighN
+09/25/2024  04:16 PM    <DIR>          TOS2LowN
+              23 File(s)        116,149 bytes
+               4 Dir(s)  1,451,103,195,136 bytes free
